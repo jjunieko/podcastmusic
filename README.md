@@ -9,3 +9,9 @@ ferramentas utilizadas foram html, CSS e JavaScript  e os icones retirado da pá
 
 
 [========]
+
+
+
+I replicated all the code developed by rockeseat, I learned how to make changes in audio and video such as stylized buttons for playback, pause, mute, volume and transfer to another music track.
+
+tools used were html, CSS and JavaScript and the icons were removed from the materialize.io page
